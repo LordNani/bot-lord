@@ -1,0 +1,22 @@
+{
+  "name": "bot-lord",
+  "version": "1.0.0",
+  "description": "A twitch chat bot for Hexa channel",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordNani/bot-lord.git"
+  },
+  "author": "LordNani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordNani/bot-lord/issues"
+  },
+  "homepage": "https://github.com/LordNani/bot-lord#readme",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
